@@ -972,6 +972,8 @@ pub fn get_api_server(api: String, custom: String) -> String {
     // }
     res
 }
+    res
+}
                     res
                 }
     let mut res = get_api_server_(api, custom);
